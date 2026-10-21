@@ -1,0 +1,6 @@
+{
+  "name": "Smart Grocery - Online Grocery Shopping",
+  "description": "Your Daily Needs, Delivered Fresh across Khordha and Jatani, Odisha. Fresh vegetables, fruits, rice, pulses, dairy, and household essentials with fast delivery and WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
